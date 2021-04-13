@@ -1,1 +1,1 @@
-pass
+#punkt
